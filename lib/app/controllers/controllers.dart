@@ -1,0 +1,10 @@
+export 'create_new_project_controller.dart';
+export 'home_controller.dart';
+export 'introduction_controller.dart';
+export 'main_controller.dart';
+export 'navigation_controller.dart';
+export 'settings_controller.dart';
+export 'splash_controller.dart';
+export 'theme_controller.dart';
+export 'unknown_route_controller.dart';
+export 'user_controller.dart';
